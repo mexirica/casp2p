@@ -16,8 +16,6 @@ This project is an implementation of a Decentralized Content Addressable Storage
 
 ### Installation
 
-Clone the repository:
-
 ```bash
 git clone https://github.com/mexirica/casp2p.git
 cd casp2p
